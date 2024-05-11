@@ -77,7 +77,7 @@ p{
 
 @media screen and (min-width:1201px){
   p{
-    color:rgb(194, 25, 123);
+    color:gold;
     width:100%;
     margin:5px;
   }
@@ -96,5 +96,6 @@ p{
     color:purple;
     text-align: center;
     margin:auto;
+
   }
 }
